@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<v8lang:V8TranslateLanguage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:v8lang="http://1c.ru/langtool/v8/dt/lang/model" uuid="bd778a7b-de29-4924-afc7-2e2ae6abdf8d">
+  <name>Romanian</name>
+  <synonym>
+    <key>en</key>
+    <value>Romanian</value>
+  </synonym>
+  <languageCode>ro</languageCode>
+  <option>INTERFACE_ONLY</option>
+</v8lang:V8TranslateLanguage>

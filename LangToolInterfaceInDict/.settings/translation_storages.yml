@@ -1,0 +1,15 @@
+edit:
+  presentation: Default editing storage
+  storages:
+  - dictionary:common-interface
+read:
+- dictionary:common-interface
+dictionary:
+  common-interface:
+    presentation: Interface common translations
+    format: dict
+    file_extension: lsdict
+    file_path: src/common
+    read_only: false
+    feature_filter:
+      interface: ONLY
